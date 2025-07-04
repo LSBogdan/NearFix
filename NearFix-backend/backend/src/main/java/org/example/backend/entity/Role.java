@@ -1,0 +1,19 @@
+package org.example.backend.entity;
+
+public enum Role {
+    ADMIN,
+    GARAGE_OWNER,
+    MECHANIC_GENERAL,
+    MECHANIC_WHEELS,
+    MECHANIC_AC,
+    MECHANIC_BODYWORK,
+    MECHANIC_PAINT,
+    MECHANIC_ELECTRIC,
+    MECHANIC_ENGINE,
+    MECHANIC_TRANSMISSION,
+    RECEPTIONIST,
+    CASHIER,
+    CLEANER,
+    PARTS_MANAGER,
+    CUSTOMER
+} 
